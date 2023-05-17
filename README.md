@@ -2,11 +2,11 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <h6 style="font-family:verdana;">C</h6>
-    <h5 style="font-family:verdana;">H</h5>
-    <h4 style="font-family:verdana;">E</h4>
-    <h3 style="font-family:verdana;">R</h3>
-    <h2 style="font-family:verdana;">R</h2>
-    <h1 style="font-family:verdana;">Y</h1>
+    <h6>C</h6>
+    <h5>H</h5>
+    <h4>E</h4>
+    <h3>R</h3>
+    <h2>R</h2>
+    <h1>Y</h1>
 </head>
 </html>
